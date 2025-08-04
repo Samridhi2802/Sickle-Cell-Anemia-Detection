@@ -163,5 +163,3 @@ streamlit run app.py
 * 🗣️ Add multilingual voice-based UI for broader accessibility
   
 ---
-
-Let me know if you'd like a `requirements.txt` or badge images too. I can also push this directly to GitHub or help you create a project website using `Streamlit Sharing`.
