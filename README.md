@@ -164,4 +164,4 @@ streamlit run app.py
   
 ---
 
-For batter understanding  : https://code2tutorial.com/tutorial/c4807d57-fbff-4330-8626-53eb61e409a2/index.md
+For better understanding : https://code2tutorial.com/tutorial/c4807d57-fbff-4330-8626-53eb61e409a2/index.md
