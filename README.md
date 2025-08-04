@@ -2,7 +2,7 @@
 
 # An Effective Multimodal Framework for Sickle Cell Anemia Detection using Transfer Learning and Explainable AI
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![AI](https://img.shields.io/badge/AI-Explainable-green)
@@ -163,3 +163,5 @@ streamlit run app.py
 * 🗣️ Add multilingual voice-based UI for broader accessibility
   
 ---
+
+For batter understanding  : https://code2tutorial.com/tutorial/c4807d57-fbff-4330-8626-53eb61e409a2/index.md
