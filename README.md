@@ -17,6 +17,10 @@ This project presents a multimodal, explainable AI framework for detecting **Sic
 
 ---
 
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/8fe55895-5559-45cf-895c-53fb8234de66" />
+
+---
+
 ## 🎯 Objectives
 
 * ✅ Apply **image augmentation** techniques to improve model generalization.
